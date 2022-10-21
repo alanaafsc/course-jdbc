@@ -2,3 +2,7 @@
 jdbc1/src/db.properties
 *.properties
 jdbc2/db.properties
+jdbc1/db.properties
+
+jdbc3/db.properties
+
