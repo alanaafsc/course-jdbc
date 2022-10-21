@@ -1,0 +1,4 @@
+/.metadata/
+jdbc1/src/db.properties
+*.properties
+jdbc2/db.properties
